@@ -1,6 +1,6 @@
 # Thanks For Use Tools Me !!!
-# No Record !!!
-# Record Auto Mandul Lu :'v
+# No Recode !!!
+# Recode Auto Mandul Lu :'v
 
 How To Install :
 
