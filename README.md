@@ -1,8 +1,8 @@
 # Thanks For Use Tools Me !!!
-# No Recode !!!
-# Recode Auto Mandul Lu :'v
+# Recode Awto Di L4KN4T !1!1!1!1!
 
-How To Install :
+
+How To Install Tools :
 
 ============================================================
 
@@ -14,6 +14,6 @@ $ git clone https://github.com/MrL00L/Spammer-L00L.git
 
 $ cd Spammer-L00L
 
-$ php Spammer.php
+$ php spam.php
 
 ============================================================
