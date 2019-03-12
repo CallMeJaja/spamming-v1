@@ -1,5 +1,5 @@
 # Thanks For Use Tools Me !!!
-# Recode Awto Di L4KN4T !1!1!1!1!
+# Copyright © MrL00L
 
 
 How To Install Tools :
@@ -10,9 +10,9 @@ $ pkg install php
 
 $ pkg install git
 
-$ git clone https://github.com/MrL00L/Spammer-L00L.git
+$ git clone https://github.com/MrL00L/spamming-v1.git
 
-$ cd Spammer-L00L
+$ cd spamming-v1
 
 $ php spam.php
 
